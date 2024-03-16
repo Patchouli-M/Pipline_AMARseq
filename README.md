@@ -9,4 +9,4 @@
 
 1. Specify the input sequence file and reference in nomve_process_bs.py
 2. run python -u nomve_process_bs.py
-3. The CpG and GpC profiles will be obtained separately.
+3. The CpG and GpC profiles will be obtained separately
